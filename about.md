@@ -20,6 +20,6 @@ I listen to music from a wide range of genres. I take pride in my eclectic playl
 *Spicy Food*  
 I enjoy food that hurts! I've had Pepper X hot sauces, Carolina Reapers in just about every form, and I used to eat Ghost Peppers every morning with breakfast. Good luck finding something spicy that I won't try!  
 
-Please check out some of my [projects](projects.md)  
+## Please check out some of my [projects](projects.md)  
 
-Back to the [Home Page](README.md)  
+## Back to the [Home Page](README.md)  
