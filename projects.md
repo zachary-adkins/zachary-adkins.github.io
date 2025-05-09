@@ -6,7 +6,7 @@ Most recently, I've worked on projects involving Network Security and Operating 
 
 As a Senior, I began working on a Capstone Project with four other students. My team was responsible for developing a NES emulator capable of running NES ROMs. Our goal was to get a functional emulator up and running within three academic terms that could run a selection of NES ROMs. This has been the largest project that I have worked on in terms of scope, time commitment, and involvement with a team.  
 
-The links in the list below will take you to a page for the designated project. That page will go into much more detail regarding each project!  
+The links in the list below will take you to the page for the designated project. That page will go into much more detail regarding each project!  
 
 # Projects  
 [Capstone (Senior) Project - NES Emulator](nesemulator.md)  
