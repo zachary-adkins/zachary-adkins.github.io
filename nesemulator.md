@@ -19,4 +19,6 @@ Our next target was the Super Mario ROM. This ROM has much more complex renderin
 
 ![](assets/zack-yeo-93dD3vxHRiQ-unsplash.jpg)  
 
-Development of the emulator is wrapping up and should be completed very soon!
+Development of the emulator is wrapping up and should be completed very soon!  
+
+[Back to the list of projects](projects.md)  
