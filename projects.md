@@ -6,17 +6,21 @@ Most recently, I've worked on projects involving Network Security and Operating 
 
 As a Senior, I began working on a Capstone Project with four other students. My team was responsible for developing a NES emulator capable of running NES ROMs. Our goal was to get a functional emulator up and running within three academic terms that could run a selection of NES ROMs. This has been the largest project that I have worked on in terms of scope, time commitment, and involvement with a team.  
 
+I have plans to take a class in my last academic term that involves contributions to an open-source project of my choice. I look forward to learning about the joys of open-source software. A placeholder listing can be found below. This page will be updated when a project is selected and updated again when my contributions to that project are finalized.  
+
 The links in the list below will take you to the page for the designated project. That page will go into much more detail regarding each project!  
 
 # Projects  
 [Capstone (Senior) Project - NES Emulator](nesemulator.md)  
 
-[BigShell - POSIX standard shell for OS1](bigshell.md)  
+[Open-Source Contributions - COMING SOON](opensource.md)  
 
-[JOS64 - OS2](jos64.md)  
+[BigShell - POSIX standard shell for OS1 - WIP](bigshell.md)  
 
-[Various Network Security Projects](networksecurity.md)  
+[JOS64 - OS2 - WIP](jos64.md)  
 
-[Database App](databaseapp.md)  
+[Various Network Security Projects - WIP](networksecurity.md)  
+
+[Database App - WIP](databaseapp.md)  
 
 ## Back to the [Home Page](README.md)  
