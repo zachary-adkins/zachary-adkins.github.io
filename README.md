@@ -1,4 +1,5 @@
-# Zachary Adkins - B.S. in Computer Science from Oregon State University
+# Zachary Adkins - B.S. in Computer Science  
+# Oregon State University  
 ## Special Interest in Low-Level Programming and Security Engineering
 ## Currently in Pennsylvania, USA
 
