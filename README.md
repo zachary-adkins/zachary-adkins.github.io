@@ -1,6 +1,8 @@
-# Zachary Adkins - B.S. in Computer Science  
-# Oregon State University  
-## Special Interest in Low-Level Programming and Security Engineering
+## What Fascinates Me
+* Computer Networking / Network Security
+* Cybersecurity
+* Low-Level Software Engineering
+* Software Engineering
 
 ### [About Me](about.md)
 
