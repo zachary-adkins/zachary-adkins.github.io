@@ -1,5 +1,5 @@
 remote_theme: pages-themes/midnight@v0.2.0
-plugins:
+plugins_dir:
   -jekyll-remote-theme
 title: [Zachary Adkins]
 description: [Professional information about Zachary Adkins relevant to job seeking]
