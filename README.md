@@ -1,8 +1,14 @@
-## What Fascinates Me
-* Computer Networking / Network Security
+## Currently Seeking Employment
+## Desired Roles
+* Computer Networking
+  * Network Administrator
 * Cybersecurity
-* Low-Level Software Engineering
+  * SOC
+  * InfoSec
+  * Entry-level analyst positions
 * Software Engineering
+  * Any programming role, but I have a special interest in working with low-level systems.
+* IT Support Specialist
 
 ### [About Me](about.md)
 
