@@ -1,5 +1,9 @@
-## Currently Seeking Employment
+<div align="center">
+ ## Currently Seeking Employment
+</div>
+
 ## Desired Roles
+
 * Computer Networking
   * Network Administrator
 * Cybersecurity
