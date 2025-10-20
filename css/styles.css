@@ -11199,3 +11199,11 @@ body {
 #network_diagram {
   filter: brightness(0.9) contrast (0.9);
 }
+
+#contact {
+  padding-top: 8rem;
+}
+
+#job-search-info {
+  padding-top: 7rem;
+}
